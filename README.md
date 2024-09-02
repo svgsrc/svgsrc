@@ -6,7 +6,7 @@
  development. I'm passionate about learning and continuously improving my abilities to create applications that deliver great user experiences. I’m excited to continue my journey in mobile development and explore new technologies along the way.
 
 - 🌱 I’m currently learning Advanced Flutter Techniques
-- 💬 Ask me about Flutter and Mobile Development
+- 💬 Ask me about Flutter, Kotlin and Mobile Development
 - 📫 How to reach me: sevgisarica7@gmail.com
   
 
